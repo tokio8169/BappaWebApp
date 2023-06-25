@@ -223,7 +223,7 @@
 } 
 
 .info{
-  height: 980px;
+  height: 1380px;
   text-align: center;
   background-color: #0e0d0d;
   border-radius: 8px;
@@ -292,7 +292,7 @@ h3 span:hover{
 }
 
 .invitaioncard{
-  height: 655px;
+  height: 1100px;
   background-color: rgba(255, 255, 255, 0.842);
   border: 6px darkblue  dotted;
   
@@ -510,7 +510,7 @@ li{
   background-color: #0e0d0d;
   margin: 8px;
   border-radius: 8px;
-  height: 435px;
+  height: 520px;
   margin-top: 20px;
   margin-bottom: 15px;
   box-shadow: 5px 6px 5px black;
